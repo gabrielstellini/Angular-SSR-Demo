@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gabriel-ssr-demo": {
+      "hosting": {
+        "ssr-demo": [
+          "gabriel-ssr-demo"
+        ]
+      }
+    }
+  }
+}
